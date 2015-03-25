@@ -1,0 +1,9 @@
+[childtheme]
+title = $description
+description = Diazo ChildTheme from ${namespace_package}.${package} package
+preview = preview.png
+
+[childtheme:parameters]
+portal_url = portal_state/portal_url
+ajax_load = python: 'ajax_load' in request.form
+anon_user = portal_state/anonymous
