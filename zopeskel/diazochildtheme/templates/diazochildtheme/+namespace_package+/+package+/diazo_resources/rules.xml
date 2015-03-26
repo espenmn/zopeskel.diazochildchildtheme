@@ -48,7 +48,7 @@
     <before css:theme-children="body" css:content-children="body"/>
     <after css:theme-children="body">
     	<!-- version 2 -->
-        <script src="{$base}/++theme++bootstrap-framework/js/bootstrap.min.js"></script>
+        <script src="/++theme++bootstrap-framework/js/bootstrap.min.js"></script>
         
         <!-- Latest compiled and minified JavaScript -->
 		<!-- script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script-->
